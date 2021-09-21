@@ -17,6 +17,8 @@ More details can be found [here](https://github.com/HYTYH/Sight/blob/main/docs/V
 - Color Reconstruction
 <img src="./data/reconstruction.png" width="400" alt="running" style="zoom:50%;" />
 
+The left hand side shows an unprocessed image, and the right hand side shows a visually reconstructed image.
+
 ---
 
 ## 🖼Runtime Screenshot
