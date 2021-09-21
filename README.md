@@ -12,7 +12,7 @@ More details can be found [here](https://github.com/HYTYH/Sight/blob/main/docs/V
 ---
 
 ## 🖼Runtime Screenshot
-<img src="./data/running.jpg" width="450" alt="running" style="zoom:50%;" />
+<img src="./data/running.jpg" width="400" alt="running" style="zoom:50%;" />
 
 ---
 
