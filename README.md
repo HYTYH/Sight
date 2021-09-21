@@ -12,7 +12,7 @@ More details can be found [here](https://github.com/HYTYH/Sight/blob/main/docs/V
 ---
 ## ❔What can Sight do?
 - Color Discrimination 
-<img src="./data/discrimination.jpg" width="400" alt="running" style="zoom:50%;" />
+<img src="./data/discrimination.jpg" width="340" alt="running" style="zoom:50%;" />
 
 - Color Reconstruction
 <img src="./data/reconstruction.png" width="400" alt="running" style="zoom:50%;" />
