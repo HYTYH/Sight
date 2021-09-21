@@ -11,9 +11,11 @@ More details can be found [here](https://github.com/HYTYH/Sight/blob/main/docs/V
 
 ---
 ## ❔What can Sight do?
-- color discrimination 
-- Color reconstruction
+- Color Discrimination 
+<img src="./data/discrimination.jpg" width="400" alt="running" style="zoom:50%;" />
 
+- Color Reconstruction
+<img src="./data/reconstruction.png" width="400" alt="running" style="zoom:50%;" />
 
 ---
 
